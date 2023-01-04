@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcassetti
-- 👀 I’m interested in unreal engine, 3d animation, and web3
-- 🌱 I’m currently learning web3, 3d model pipelines, and unreal engine
+- 👀 I’m interested in unreal engine, 3d animation, and data algorithms 
+- 🌱 I’m currently learning unreal engine
 
 
 <!---
